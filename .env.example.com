@@ -1,4 +1,0 @@
-PORT=3000
-HOST=localhost
-NODE_ENV=development
-CORS_ORIGIN=*
